@@ -1,6 +1,6 @@
 # PackCC
 
-Fork of the packcc PEG/Packrat parser generator for C
+Fork of the **PackCC** PEG/Packrat parser generator for C by _Arihiro Yoshida_
 
 ## Links
 
