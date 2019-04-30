@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# generated files
+bin/
+
+# example files not added explicitely
+examples/
