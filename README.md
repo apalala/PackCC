@@ -4,7 +4,8 @@ Fork of the **PackCC** PEG/Packrat parser generator for C by _Arihiro Yoshida_
 
 ## Links
 
-*   [Original Wiki](https://sourceforge.net/p/forge/documentation/Wiki/)
+*   [Original repo](https://sourceforge.net/projects/packcc/)
+*   [Original Wiki](https://sourceforge.net/p/packcc/wiki/Home/)
 
 # Manual
 
